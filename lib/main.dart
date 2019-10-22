@@ -90,4 +90,4 @@ class NinjaCard extends StatelessWidget {
     );
   }
 }
-
+//before the stateful widget was created
